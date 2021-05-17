@@ -2,5 +2,5 @@
 
 Linguagens já trabalhadas: Java, Lua, PHP.
 Frameworks já trabalhados: Bootstrap e Materialize.
-Estudando atualmente: JavaScript, ReactJS e SpringBoot.
+Estudando atualmente: JavaScript(Node.js), ReactJS e C#.
 Outras tecnologias: HTML, CSS, XML.
